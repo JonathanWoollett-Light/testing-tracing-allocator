@@ -1,0 +1,6 @@
+allocate 0:3926 + 0x559e1ffe8a20 32 | Location { file: "/rustc/cba14074bb4cc12bfe918eabd0d52a3999b2a461/library/core/src/alloc/mod.rs", line: 374, col: 18 }
+allocate 0:10628 + 0x559e1ffe8c10 1 | Location { file: "/rustc/cba14074bb4cc12bfe918eabd0d52a3999b2a461/library/core/src/alloc/mod.rs", line: 374, col: 18 }
+allocate 0:13588 + 0x559e1ffe8e80 128 | Location { file: "/rustc/cba14074bb4cc12bfe918eabd0d52a3999b2a461/library/core/src/alloc/mod.rs", line: 374, col: 18 }
+allocate 0:31811 + 0x559e1ffe8f10 2 | Location { file: "/rustc/cba14074bb4cc12bfe918eabd0d52a3999b2a461/library/core/src/alloc/mod.rs", line: 374, col: 18 }
+allocate 0:35709 + 0x559e1ffe93c0 3 | Location { file: "/rustc/cba14074bb4cc12bfe918eabd0d52a3999b2a461/library/core/src/alloc/mod.rs", line: 374, col: 18 }
+deallocate 0:37959 - 0x559e1ffe8a20 32 | Location { file: "/rustc/cba14074bb4cc12bfe918eabd0d52a3999b2a461/library/core/src/alloc/mod.rs", line: 385, col: 27 }
